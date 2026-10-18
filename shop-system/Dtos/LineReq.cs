@@ -1,0 +1,1 @@
+﻿public record LineReq(int ProductId, int Qty);

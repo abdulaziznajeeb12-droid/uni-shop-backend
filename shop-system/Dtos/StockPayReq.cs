@@ -1,0 +1,1 @@
+﻿public record StockPayReq(decimal Amount);

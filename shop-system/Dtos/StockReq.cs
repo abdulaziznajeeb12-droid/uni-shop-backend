@@ -1,0 +1,1 @@
+﻿public record StockReq(int ProductId, int Qty, decimal Cost, decimal PaidNow, string? Supplier);
